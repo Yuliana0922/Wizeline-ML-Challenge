@@ -68,4 +68,4 @@ This will show you SwaggerGUI, where you'll be able to directly
 You can also call by Postman or CURL   
 4. To execute the Jupyter notebook server, use the URL that Docker will provide. Ej. `http://127.0.0.1:8888/tree?token=your_token_here`
 
-Author: Yuliana Gonzalez - Built for Wizeline Challenge
+Author: Yuliana Gonzalez - Built for Wizeline Challenge Feb 2026
